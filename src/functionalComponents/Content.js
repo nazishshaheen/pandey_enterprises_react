@@ -2,7 +2,7 @@ import '../style.css';
 
 function Content() {
     return (
-        <section class="updates-section home-section"></section>
+        <section className="updates-section home-section"></section>
     )
 }
 
